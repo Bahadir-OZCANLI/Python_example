@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # #PHYTON EXAMPLES BEGıNNER LEVEL-BAHADIR ÖZCANLI
 
 # In[6]:
